@@ -1,0 +1,18 @@
+body {
+  padding-top: 5rem;
+}
+.master {
+  padding: 3rem 1.5rem;
+  text-align: left;
+  font-size: 20px;
+}
+.arabic-txt {
+	float: right;
+	font-size: 20px;
+}
+
+.required-label:after {
+    color: #e32;
+    content: ' *';
+    display:inline;
+}
